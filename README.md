@@ -1,2 +1,2 @@
-# csgopolygon
+#how to cheatcsgopolygon
 https://csgopolygon.com
